@@ -1,0 +1,15 @@
+#cajas{
+	margin-top: 30px;
+}
+
+#cajas .caja{
+	float: left;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+}
+
+#cajas .caja img{
+	width: 95px;
+	height: 95px;
+}
